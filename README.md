@@ -10,5 +10,5 @@ Data Analyst with hands-on experience in Power BI, SQL, Python, and Tableau thro
 
 
 ## 🌐 Get In Touch
-- LinkedIn: https://www.linkedin.com/in/yumnahmed/
+- LinkedIn: https://www.linkedin.com/in/yumnahmed
 - Email: yomnaahmed28120@gmail.com
