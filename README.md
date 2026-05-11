@@ -13,7 +13,6 @@ Data Analyst with hands-on experience in Power BI, SQL, Python, and Tableau thro
 I have a good data analysis experience in non-profit organization with a strong knowledge at:
 
 Statistics & Probability
-
 Pyhton
 
 Power BI
